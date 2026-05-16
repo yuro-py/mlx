@@ -1,5 +1,5 @@
-# mlx
+# MLX = MACHINE LEARNING EXERCISES
 
-Using:-
-1. https://tensorgym.com/exercises
-2. https://www.deep-ml.com/problems
+platforms:-
+https://tensorgym.com/exercises
+https://www.deep-ml.com
